@@ -1,0 +1,6 @@
+{
+  "name": "Travel Itinerary Planner AI Agent",
+  "description": "A multi-agent travel itinerary planner that creates highly customized day-wise itineraries with points of interest, food recommendations, and complete budget allocations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
